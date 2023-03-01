@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "age=0": {"model": "simplesoy:block/soy_stage0"},
+    "age=1": {"model": "simplesoy:block/soy_stage1"},
+    "age=2": {"model": "simplesoy:block/soy_stage2"},
+    "age=3": {"model": "simplesoy:block/soy_stage3"},
+    "age=4": {"model": "simplesoy:block/soy_stage4"},
+    "age=5": {"model": "simplesoy:block/soy_stage5"}
+  }
+}

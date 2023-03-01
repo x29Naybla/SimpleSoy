@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "type": "forge:nbt",
+      "item": "minecraft:potion",
+      "count": 1,
+      "nbt": "{Potion:\"minecraft:water\"}"
+    },
+    {
+      "item": "simplesoy:soybeans"
+    },
+    {
+      "item": "simplesoy:soybeans"
+    },
+    {
+      "item": "simplesoy:soybeans"
+    },
+    {
+      "item": "simplesoy:soybeans"
+    }
+  ],
+  "result": {
+    "item": "simplesoy:soy_milk",
+    "count": 1
+  }
+}
