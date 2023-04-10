@@ -2,23 +2,22 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "minecraft:bread"
+      "tag": "forge:bread"
     },
     {
       "item": "simplesoy:tofu"
     },
     {
-      "tag": "forge:crops/cabbage"
+      "tag": "forge:salad_ingredients"
     },
     {
-      "item": "farmersdelight:tomato"
+      "tag": "forge:crops/tomato"
     },
     {
-      "item": "farmersdelight:onion"
+      "tag": "forge:crops/onion"
     }
   ],
   "result": {
-    "item": "farmersdelight:hamburguer",
-    "count": 1
+    "item": "farmersdelight:hamburger"
   }
 }

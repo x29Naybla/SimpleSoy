@@ -1,6 +1,6 @@
 {
   "replace": false,
   "values": [
-    "simplesoy:soybeans"
+    "#forge:grain/soy"
   ]
 }
